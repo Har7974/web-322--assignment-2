@@ -5,9 +5,9 @@
 * 
 *  Name: ______________________ Student ID: ______________ Date: ________________
 *
-*  Cyclic Web App URL: https://github.com/Har7974/web-322--assignment-2
+*   GitHub Repository URL: https://github.com/Har7974/web-322--assignment-2
 *
-*  GitHub Repository URL: ______________________________________________________
+*  Cyclic Web App URL: https://mysterious-ray-sunbonnet.cyclic.app/about
 *
 ********************************************************************************/ 
 
